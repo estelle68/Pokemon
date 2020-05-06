@@ -1,0 +1,11 @@
+front :
+    - bdd (requete sql pour rechercher) sur phpMyAdmin
+    - html/css/js
+
+back :
+    - reflexion
+
+affichage un peu comme sur pokemon go
+
+
+bdd : 3 tables (normal (name :pokemon) / evolution (name : evolution) / reste (iv, pc, pv) (name : )
